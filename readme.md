@@ -11,7 +11,7 @@
 
 ## Project Overview
 
-This project is **Week 2** of my AI/ML internship at **Imperfect Labs**. It is a structured deep learning study implementing and comparing autoencoder architectures on the MNIST handwritten digit dataset using PyTorch.
+This is a structured deep learning study implementing and comparing autoencoder architectures on the MNIST handwritten digit dataset using PyTorch.
 
 The study covers three key areas:
 
@@ -229,7 +229,6 @@ umap-learn>=0.5.3
 
 ## 🙏 Acknowledgements
 
-- **Imperfect Labs** — for providing this internship task
 - [PyTorch Documentation](https://pytorch.org/docs/) — deep learning framework
 - [torchvision MNIST](https://pytorch.org/vision/stable/datasets.html#torchvision.datasets.MNIST) — dataset
 - [scikit-learn PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) — baseline
