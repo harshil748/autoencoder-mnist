@@ -1,8 +1,10 @@
 __pycache__/
 *.pyc
+.DS_Store
 .env
 venv/
 .ipynb_checkpoints/
 data/MNIST/
+notebooks/data/
 *.pth
 
