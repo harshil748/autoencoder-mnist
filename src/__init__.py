@@ -1,0 +1,2 @@
+"""Autoencoder MNIST package."""
+
